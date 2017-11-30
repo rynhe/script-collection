@@ -28,3 +28,5 @@
 
 /*Example*/
 $("#footer:in-viewport")
+
+/* Reference : http://whois.wildlife.la/static/javascript/wildlife.js */
