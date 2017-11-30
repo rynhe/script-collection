@@ -1,2 +1,0 @@
-# script-collection
-important scripts
